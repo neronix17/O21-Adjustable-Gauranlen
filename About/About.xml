@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[O21] Adjustable Gauranlen</name>
+	<author>Neronix17</author>
+    <packageId>neronix17.adjustable.gauranlen</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<url></url>
+	<description>Allows the player to adjust how good the Gauranlen tree is.</description>
+</ModMetaData>
